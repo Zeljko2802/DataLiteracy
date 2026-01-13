@@ -1,4 +1,424 @@
 Year,Rank,Player
+1970,1,Gerd Müller
+1970,2,Bobby Moore
+1970,3,Gigi Riva
+1970,4,Franz Beckenbauer
+1970,5,Wolfgang Overath
+1970,6,Dragan Dzajic
+1970,7,Johan Cryuff
+1970,8,Gordon Banks
+1970,8,Sandro Mazzola
+1970,10,Rinus Israel
+1970,11,Gianni Rivera
+1970,12,Uwe Seeler
+1970,13,Albert Shesternyov
+1970,14,Angelo Domenghini
+1970,15,Ove Kindvall
+1971,1,Johan Cruyff
+1971,2,Sandro Mazzola
+1971,3,George Best
+1971,4,Günter Netzer
+1971,5,Franz Beckenbauer
+1971,6,Gerd Müller
+1971,6,Josip Skoblar
+1971,8,Martin Chivers
+1971,9,Piet Keizer
+1971,10,Bobby Moore
+1971,10,Ferenc Bene
+1971,12,Yevhen Rudakov
+1971,13,Giacinto Facchetti
+1971,13,Mimis Domazos
+1971,13,Pirri
+1972,1,Franz Beckenbauer
+1972,2,Gerd Müller
+1972,3,Günter Netzer
+1972,4,Johan Cruyff
+1972,5,Piet Keizer
+1972,6,Kazimierz Deyna
+1972,7,Gordon Banks
+1972,8,Barry Hulshoff
+1972,9,Włodzimierz Lubański
+1972,10,Bobby Moore
+1972,11,Hristo Bonev
+1972,12,Murtaz Khurtsilava
+1972,13,Gerrie Mühren
+1972,14,Paul Van Himst
+1972,15,Antal Dunai
+1973,1,Johan Cruyff
+1973,2,Dino Zoff
+1973,3,Gerd Müller
+1973,4,Franz Beckenbauer
+1973,5,Billy Bremner
+1973,6,Kazimierz Deyna
+1973,7,Eusébio
+1973,8,Gianni Rivera
+1973,9,Ralf Edström
+1973,10,Günter Netzer
+1973,11,Ulrich Hoeneß
+1973,12,Hristo Bonev
+1973,13,Giacinto Facchetti
+1973,14,Juan Manuel Asensi
+1973,15,Sandro Mazzola
+1974,1,Johan Cruyff
+1974,2,Franz Beckenbauer
+1974,3,Kazimierz Deyna
+1974,4,Paul Breitner
+1974,5,Johan Neeskens
+1974,6,Grzegorz Lato
+1974,7,Gerd Müller
+1974,8,Robert Gadocha
+1974,9,Billy Bremner
+1974,10,Ralf Edström
+1974,11,Jürgen Sparwasser
+1974,12,Berti Vogts
+1974,13,Ronnie Hellström
+1974,14,Jan Tomaszewski
+1974,15,José Altafini
+1975,1,Oleg Blokhin
+1975,2,Franz Beckenbauer
+1975,3,Johan Cruyff
+1975,4,Berti Vogts
+1975,5,Sepp Maier
+1975,6,Ruud Geels
+1975,7,Jupp Heynckes
+1975,8,Paul Breitner
+1975,9,Colin Todd
+1975,10,Dudu Georgescu
+1975,11,Peter Lorimer
+1975,12,Branko Oblak
+1975,13,Pirri
+1975,14,Ralf Edström
+1975,15,Günter Netzer
+1976,1,Franz Beckenbauer
+1976,2,Rob Rensenbrink
+1976,3,Ivo Viktor
+1976,4,Kevin Keegan
+1976,5,Michel Platini
+1976,6,Anton Ondruš
+1976,7,Johan Cruyff
+1976,8,Ivan Ćurković
+1976,9,Rainer Bonhof
+1976,10,Gerd Müller
+1976,11,Marián Masný
+1976,12,Franco Causio
+1976,13,Berti Vogts
+1976,14,Tibor Nyilasi
+1976,15,Roberto Bettega
+1977,1,Allan Simonsen
+1977,2,Kevin Keegan
+1977,3,Michel Platini
+1977,4,Roberto Bettega
+1977,5,Johan Cruyff
+1977,6,Klaus Fischer
+1977,7,Tibor Nyilasi
+1977,8,Rob Rensenbrink
+1977,9,Dudu Georgescu
+1977,10,Emlyn Hughes
+1977,11,Steve Heighway
+1977,12,Berti Vogts
+1977,13,Dominique Bathenay
+1977,14,Trevor Brooking
+1977,15,Anders Linderoth
+1978,1,Kevin Keegan
+1978,2,Hans Krankl
+1978,3,Rob Rensenbrink
+1978,4,Roberto Bettega
+1978,5,Paolo Rossi
+1978,6,Ronnie Hellström
+1978,7,Ruud Krol
+1978,8,Kenny Dalglish
+1978,9,Allan Simonsen
+1978,10,Peter Shilton
+1978,11,Arie Haan
+1978,12,René van de Kerkhof
+1978,13,Antonio Cabrini
+1978,14,Willy van de Kerkhof
+1978,15,Johan Cruyff
+1979,1,Kevin Keegan
+1979,2,Karl-Heinz Rummenigge
+1979,3,Ruud Krol
+1979,4,Manfred Kaltz
+1979,5,Michel Platini
+1979,6,Paolo Rossi
+1979,7,Trevor Francis
+1979,8,Liam Brady
+1979,9,Zbigniew Boniek
+1979,10,Zdeněk Nehoda
+1979,11,Kenny Dalglish
+1979,12,Allan Simonsen
+1979,13,Paul Breitner
+1979,14,Kees Kist
+1979,15,Johnny Rep
+1980,1,Karl-Heinz Rummenigge
+1980,2,Bernd Schuster
+1980,3,Michel Platini
+1980,4,Wilfried Van Moer
+1980,5,Jan Ceulemans
+1980,6,Horst Hrubesch
+1980,7,Herbert Prohaska
+1980,8,Hansi Müller
+1980,9,Liam Brady
+1980,10,Manfred Kaltz
+1980,11,Erwin Vandenbergh
+1980,12,Luis Arconada
+1980,13,Dino Zoff
+1980,14,Kenny Dalglish
+1980,15,Bruno Pezzey
+1981,1,Karl-Heinz Rummenigge
+1981,2,Paul Breitner
+1981,3,Bernd Schuster
+1981,4,Michel Platini
+1981,5,Oleg Blokhin
+1981,6,Dino Zoff
+1981,7,Ramaz Shengelia
+1981,8,Alexsandr Chivadze
+1981,9,Liam Brady
+1981,10,John Wark
+1981,11,David Kipiani
+1981,12,András Törőcsik
+1981,13,Zbigniew Boniek
+1981,14,Maxime Bossis
+1981,15,Bruno Pezzey
+1982,1,Paolo Rossi
+1982,2,Alain Giresse
+1982,3,Zbigniew Boniek
+1982,4,Karl-Heinz Rummenigge
+1982,5,Bruno Conti
+1982,6,Rinat Dasayev
+1982,7,Pierre Littbarski
+1982,8,Dino Zoff
+1982,9,Michel Platini
+1982,10,Bernd Schuster
+1982,11,Giancarlo Antognoni
+1982,12,Bruno Pezzey
+1982,13,Gaetano Scirea
+1982,14,Eric Gerets
+1982,15,Paul Breitner
+1983,1,Michel Platini
+1983,2,Kenny Dalglish
+1983,3,Allan Simonsen
+1983,4,Gordon Strachan
+1983,5,Felix Magath
+1983,6,Jean-Marie Pfaff
+1983,7,Rinat Dasayev
+1983,8,Karl-Heinz Rummenigge
+1983,9,Jesper Olsen
+1983,10,Bryan Robson
+1983,11,Fernando Gomes
+1983,12,Bernd Schuster
+1983,13,Franky Vercauteren
+1983,14,Alain Giresse
+1983,15,Safet Sušić
+1984,1,Michel Platini
+1984,2,Jean Tigana
+1984,3,Preben Elkjær
+1984,4,Ian Rush
+1984,5,Fernando Chalana
+1984,6,Graeme Souness
+1984,7,Harald Schumacher
+1984,8,Karl-Heinz Rummenigge
+1984,9,Alain Giresse
+1984,10,Bryan Robson
+1984,11,Bernd Schuster
+1984,12,Enzo Scifo
+1984,13,Maxime Bossis
+1984,14,Klaus Allofs
+1984,15,Antonio Cabrini
+1985,1,Michel Platini
+1985,2,Preben Elkjær-Larsen
+1985,3,Bernd Schuster
+1985,4,Michael Laudrup
+1985,5,Karl-Heinz Rummenigge
+1985,6,Zbigniew Boniek
+1985,7,Oleh Protassow
+1985,8,Hans-Peter Briegel
+1985,9,Bryan Robson
+1985,10,Rinat Dassajew
+1985,11,Rudi Völler
+1985,12,Luis Fernández
+1985,13,Søren Lerby
+1985,14,Rafael Gordillo
+1985,15,Ian Rush
+1986,1,Ihor Bjelanow
+1986,2,Gary Lineker
+1986,3,Emilio Butragueño
+1986,4,Preben Elkjær Larsen
+1986,,Manuel Amoros
+1986,6,Oleksandr Sawarow
+1986,,Ian Rush
+1986,8,Helmut Duckadam
+1986,9,Marco van Basten
+1986,10,Alessandro Altobelli
+1986,11,Michel Platini
+1986,12,Jean-Marie Pfaff
+1986,13,Jan Ceulemans
+1986,14,Søren Lerby
+1986,15,Morten Olsen
+1987,1,Ruud Gullit
+1987,2,Paulo Futre
+1987,3,Emilio Butragueño
+1987,4,Míchel
+1987,5,Gary Lineker
+1987,6,John Barnes
+1987,7,Marco van Basten
+1987,8,Gianluca Vialli
+1987,9,Bryan Robson
+1987,10,Klaus Allofs
+1987,11,Glenn Hysén
+1987,12,Manuel Amoros
+1987,13,Lothar Matthäus
+1987,14,Toni Polster
+1987,15,Mark Hateley
+1988,1,Marco van Basten
+1988,2,Ruud Gullit
+1988,3,Frank Rijkaard
+1988,4,Oleksij Mychajlytschenko
+1988,5,Ronald Koeman
+1988,6,Lothar Matthäus
+1988,7,Gianluca Vialli
+1988,8,Oleksandr Sawarow
+1988,9,Jürgen Klinsmann
+1988,10,Franco Baresi
+1988,11,Tanju Çolak
+1988,12,Oleh Kusnezow
+1988,13,Rinat Dassajew
+1988,14,Anatolij Demjanenko
+1988,15,Glenn Hysén
+1989,1,Marco van Basten
+1989,2,Franco Baresi
+1989,3,Frank Rijkaard
+1989,4,Lothar Matthäus
+1989,5,Peter Shilton
+1989,6,Dragan Stojković
+1989,7,Ruud Gullit
+1989,8,Gheorghe Hagi
+1989,9,Jürgen Klinsmann
+1989,10,Michel Preud’homme
+1989,11,Jean-Pierre Papin
+1989,12,Oleksij Mychajlytschenko
+1989,13,Míchel
+1989,14,Andreas Brehme
+1989,15,Paulo Futre
+1990,1,Lothar Matthäus
+1990,2,Salvatore Schillaci
+1990,3,Andreas Brehme
+1990,4,Paul Gascoigne
+1990,5,Franco Baresi
+1990,6,Enzo Scifo
+1990,7,Jürgen Klinsmann
+1990,8,Roberto Baggio
+1990,9,Frank Rijkaard
+1990,10,Guido Buchwald
+1990,11,Jean-Pierre Papin
+1990,12,Rafael Martín Vázquez
+1990,13,Paul McGrath
+1990,14,Robert Prosinečki
+1990,15,Des Walker
+1991,1,Jean-Pierre Papin
+1991,2,Dejan Savićević
+1991,,Darko Pančev
+1991,,Lothar Matthäus
+1991,5,Robert Prosinečki
+1991,6,Gary Lineker
+1991,7,Gianluca Vialli
+1991,8,Miodrag Belodedici
+1991,9,Mark Hughes
+1991,10,Chris Waddle
+1991,11,Michael Laudrup
+1991,12,Rudi Völler
+1991,13,Txiki Begiristain
+1991,14,Stéphane Chapuisat
+1991,15,Bruno Martini
+1992,1,Marco van Basten
+1992,2,Christo Stoitschkow
+1992,3,Dennis Bergkamp
+1992,4,Thomas Häßler
+1992,5,Peter Schmeichel
+1992,6,Brian Laudrup
+1992,7,Michael Laudrup
+1992,8,Ronald Koeman
+1992,9,Stéphane Chapuisat
+1992,10,Frank Rijkaard
+1992,11,Enzo Scifo
+1992,12,Flemming Povlsen
+1992,13,Henrik Larsen
+1992,14,John Jensen
+1992,15,Paolo Maldini
+1993,1,Roberto Baggio
+1993,2,Dennis Bergkamp
+1993,3,Eric Cantona
+1993,4,Alen Bokšić
+1993,5,Michael Laudrup
+1993,6,Franco Baresi
+1993,7,Paolo Maldini
+1993,8,Emil Kostadinov
+1993,9,Stéphane Chapuisat
+1993,10,Ryan Giggs
+1993,11,Andreas Möller
+1993,12,Ruud Gullit
+1993,13,Peter Schmeichel
+1993,14,Hristo Stoichkov
+1993,15,Basile Boli
+1994,1,Hristo Stoichkov
+1994,2,Roberto Baggio
+1994,3,Paolo Maldini
+1994,4,Gheorghe Hagi
+1994,5,Tomas Brolin
+1994,6,Jürgen Klinsmann
+1994,7,Thomas Ravelli
+1994,8,Jari Litmanen
+1994,9,Marcel Desailly
+1994,10,Dejan Savićević
+1994,11,Franco Baresi
+1994,12,Michel Preud'homme
+1994,13,Michael Laudrup
+1994,14,Yordan Letchkov
+1994,15,Eric Cantona
+1995,1,George Weah
+1995,2,Jürgen Klinsmann
+1995,3,Jari Litmanen
+1995,4,Alessandro Del Piero
+1995,5,Patrick Kluivert
+1995,6,Gianfranco Zola
+1995,7,Paolo Maldini
+1995,8,Marc Overmars
+1995,9,Matthias Sammer
+1995,10,Michael Laudrup
+1995,11,Marcel Desailly
+1995,12,Frank Rijkaard
+1995,13,Fabrizio Ravanelli
+1995,14,Paulo Sousa
+1995,15,Hristo Stoichkov
+1996,1,Matthias Sammer
+1996,2,Ronaldo
+1996,3,Alan Shearer
+1996,4,Alessandro Del Piero
+1996,5,Jürgen Klinsmann
+1996,6,Davor Šuker
+1996,7,Eric Cantona
+1996,8,Marcel Desailly
+1996,9,Youri Djorkaeff
+1996,10,Karel Poborský
+1996,11,Nwankwo Kanu
+1996,12,George Weah
+1996,13,Alen Bokšić
+1996,14,Gabriel Batistuta
+1996,15,Andreas Köpke
+1997,1,Ronaldo
+1997,2,Predrag Mijatović
+1997,3,Zinedine Zidane
+1997,4,Dennis Bergkamp
+1997,5,Roberto Carlos
+1997,6,Andreas Möller
+1997,7,Raúl
+1997,8,Peter Schmeichel
+1997,9,Jürgen Kohler
+1997,10,Matthias Sammer
+1997,11,Christian Vieri
+1997,12,Youri Djorkaeff
+1997,13,Luis Enrique
+1997,14,Luís Figo
+1997,15,Gianfranco Zola
 1998,1,Zinedine Zidane
 1998,2,Davor Šuker
 1998,3,Ronaldo
@@ -13,7 +433,7 @@ Year,Rank,Player
 1998,12,Emmanuel Petit
 1998,13,Roberto Carlos
 1998,14,Laurent Blanc
-1998,14,Fabien Barthez
+1998,15,Fabien Barthez
 1999,1,Rivaldo
 1999,2,David Beckham
 1999,3,Andriy Shevchenko
@@ -39,11 +459,11 @@ Year,Rank,Player
 2000,8,Gaizka Mendieta
 2000,9,Raúl
 2000,10,Paolo Maldini
-2000,10,David Beckham
+2000,11,David Beckham
 2000,12,Zlatko Zahovič
-2000,12,Fabien Barthez
+2000,13,Fabien Barthez
 2000,14,Francesco Toldo
-2000,14,Francesco Totti
+2000,15,Francesco Totti
 2001,1,Michael Owen
 2001,2,Raúl
 2001,3,Oliver Kahn
@@ -53,12 +473,12 @@ Year,Rank,Player
 2001,7,Rivaldo
 2001,8,Andriy Shevchenko
 2001,9,Thierry Henry
-2001,9,Zinedine Zidane
+2001,10,Zinedine Zidane
 2001,11,Bixente Lizarazu
 2001,12,David Trezeguet
 2001,13,Stefan Effenberg
 2001,14,Henrik Larsson
-2001,14,Alessandro Nesta
+2001,15,Alessandro Nesta
 2002,1,Ronaldo
 2002,2,Roberto Carlos
 2002,3,Oliver Kahn
@@ -72,7 +492,7 @@ Year,Rank,Player
 2002,11,Hasan Şaş
 2002,12,Ronaldinho
 2002,13,Michael Owen
-2002,13,Ruud van Nistelrooy
+2002,14,Ruud van Nistelrooy
 2002,15,Bernd Schneider
 2003,1,Pavel Nedvěd
 2003,2,Thierry Henry
@@ -98,10 +518,10 @@ Year,Rank,Player
 2004,7,Pavel Nedvěd
 2004,8,Wayne Rooney
 2004,9,Ricardo Carvalho
-2004,9,Ruud van Nistelrooy
+2004,10,Ruud van Nistelrooy
 2004,11,Angelos Charisteas
 2004,12,Cristiano Ronaldo
-2004,12,Milan Baroš
+2004,13,Milan Baroš
 2004,14,Zlatan Ibrahimović
 2004,15,Samuel Eto'o
 2005,1,Ronaldinho
@@ -118,7 +538,7 @@ Year,Rank,Player
 2005,12,Juninho
 2005,13,Claude Makélélé
 2005,14,Juan Román Riquelme
-2005,14,Petr Čech
+2005,15,Petr Čech
 2006,1,Fabio Cannavaro
 2006,2,Gianluigi Buffon
 2006,3,Thierry Henry
@@ -130,10 +550,10 @@ Year,Rank,Player
 2006,9,Andrea Pirlo
 2006,10,Jens Lehmann
 2006,11,Deco
-2006,11,Kaká
+2006,12,Kaká
 2006,13,Franck Ribéry
 2006,14,Gennaro Gattuso
-2006,14,Patrick Vieira
+2006,15,Patrick Vieira
 2007,1,Kaká
 2007,2,Cristiano Ronaldo
 2007,3,Lionel Messi
@@ -238,7 +658,7 @@ Year,Rank,Player
 2013,12,Yaya Touré
 2013,13,Robert Lewandowski
 2013,14,Philipp Lahm
-2013,14,Xavi
+2013,15,Xavi
 2014,1,Cristiano Ronaldo
 2014,2,Lionel Messi
 2014,3,Manuel Neuer
@@ -278,12 +698,12 @@ Year,Rank,Player
 2016,7,Riyad Mahrez
 2016,8,Jamie Vardy
 2016,9,Gianluigi Buffon
-2016,9,Pepe
+2016,10,Pepe
 2016,11,Pierre-Emerick Aubameyang
 2016,12,Rui Patrício
 2016,13,Zlatan Ibrahimović
 2016,14,Paul Pogba
-2016,14,Arturo Vidal
+2016,15,Arturo Vidal
 2017,1,Cristiano Ronaldo
 2017,2,Lionel Messi
 2017,3,Neymar
@@ -341,7 +761,7 @@ Year,Rank,Player
 2021,10,Gianluigi Donnarumma
 2021,11,Erling Haaland
 2021,12,Romelu Lukaku
-2021,12,Giorgio Chiellini
+2021,13,Giorgio Chiellini
 2021,14,Leonardo Bonucci
 2021,15,Raheem Sterling
 2022,1,Karim Benzema
@@ -358,7 +778,7 @@ Year,Rank,Player
 2022,12,Riyad Mahrez
 2022,13,Sébastien Haller
 2022,14,Fabinho
-2022,14,Rafael Leão
+2022,15,Rafael Leão
 2023,1,Lionel Messi
 2023,2,Erling Haaland
 2023,3,Kylian Mbappé
